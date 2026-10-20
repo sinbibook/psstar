@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-20T07:41:26.569474464Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-20T07:43:24.474402217Z",
     "templateType": "trip_g",
     "propertyId": "66e1b650-6d93-479c-afb1-f49c6c43f3d5",
     "homepageId": "01a1582a-e920-7182-bca7-a849c6d722bb"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "psstar.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/836197",
     "ybsId": "65746",
     "tripPropertyId": "3129",
     "partnerType": "distributor_a",
